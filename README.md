@@ -1,2 +1,2 @@
-# Diary
-fuck：10.01
+Typing Practice
+==================
