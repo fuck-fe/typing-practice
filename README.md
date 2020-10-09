@@ -1,2 +1,3 @@
 Typing Practice
 ==================
+Typing practice ⌨️ -> 📕📗📘📙
